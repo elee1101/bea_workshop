@@ -1,6 +1,6 @@
 | Category |  Regex pattern | Example |
 | --- | --- | --- |
-| Comparisons | "\b(more than\|less than\|fewer than\|greater than\|smaller than\|<br>higher than\|lower than)\s+\d+" | ***More than*** 15 percent drop out or finish school without a diploma. |
+| Comparisons | "\b(more than\|less than\|fewer than\|greater than\|<br>smaller than\|higher than\|lower than)\s+\d+" | ***More than*** 15 percent drop out or finish school without a diploma. |
 | Arithmetic | "\b(doubled\|tripled\|quadrupled\|halved\|increased by\|<br>decreased by\|multiplied by\|divided by)\s+\d+" | |
 | Fractions | "\b\d+/\d+\b\|\b(one\|two\|three\|four\|five\|six\|seven\|eight\|nine\|<br>ten\|eleven\|twelve\|thirteen\|fourteen\|fifteen\|sixteen\|seventeen\|<br>eighteen\|nineteen\|twenty)[-\s]?(half\|third\|quarter\|fifth\|<br>sixth\|eighth\|ninth\|tenth)s?\b" | Nearly ***one-third*** of consumers said they looked online overall for Halloween costumes. |
 | Percentages | "\b\d+(?:\.\d+)?%\b" | The incidence, therefore, was ***3.6*** percent. |
