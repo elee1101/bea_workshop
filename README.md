@@ -7,4 +7,4 @@
 | Counts/Measures | "\b\d+(?:,\d+)*\b" | It was 2 inches too big. |
 | Ranges | "\b\d+(?:\.\d+)?\s?(?:to\|–\|-\|through)\s?\d+(?:\.\d+)?\b\|\bbetween\s+(?:\d+)\s+and\s+(?:\d+)\b" | But for children with autism, interest in the eyes waned starting between 2 and 6 months of age. |
 | Slope/Correlation | "\b(increase\|decrease)\b" | that could increase to 10 percent or more, Warner predicts. |
-| Number Words | "\b(one\|two\|three\|four\|five\|six\|seven\|eight\|nine\|ten\|eleven\|twelve\|thirteen\|fourteen\|fifteen\|<br>sixteen\|seventeen\|eighteen\|nineteen\|twenty\|thirty\|forty\|fifty\|sixty\|seventy\|eighty\|ninety\|hundred\|thousand\|million\|billion)\b" | The university's police received three M-16s, records show. |
+| Number Words | "\b(one\|two\|three\|four\|five\|six\|seven\|eight\|nine\|ten\|eleven\|twelve\|thirteen\|<br>fourteen\|fifteen\|sixteen\|seventeen\|eighteen\|nineteen\|twenty\|thirty\|forty\|fifty\|sixty\|<br>seventy\|eighty\|ninety\|hundred\|thousand\|million\|billion)\b" | The university's police received three M-16s, records show. |
