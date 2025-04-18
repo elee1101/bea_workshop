@@ -1,4 +1,4 @@
-| Category | Regex pattern | Example |
+| Category |  <div style="width:290px">Regex pattern</div> | Example |
 | --- | --- | --- |
 | Comparisons | "\b(more than\|less than\|fewer than\|greater than\|smaller than\|higher than\|lower than)\s+\d+" | More than 15 percent drop out or finish school without a diploma. |
 | Arithmetic | "\b(doubled\|tripled\|quadrupled\|halved\|increased by\|decreased by\|multiplied by\|divided by)\s+\d+" | |
